@@ -30,5 +30,9 @@ Create a S3 bucket, with no public access
 
 ![ec2-ALB](https://github.com/ranju386/aws-s3-guvi/blob/main/guvi-aws-ec2alb-private-RT-task.jpg)
 
+![ec2](https://github.com/ranju386/aws-s3-guvi/blob/main/guvi-aws-ec2alb-LB-task.jpg)
+
+![ec2](https://github.com/ranju386/aws-s3-guvi/blob/main/guvi-aws-ec2alb-LBTargetGroup-task.jpg)
+
 ![ec2](https://github.com/ranju386/aws-s3-guvi/blob/main/guvi-aws-ec2alb-h-task.jpg)
 
